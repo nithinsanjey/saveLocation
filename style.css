@@ -1,5 +1,7 @@
 body{
 	margin: 0px;
+	background-color: #F5F5F5;
+	color: #263238;
 }
 #contentTable{
 	font-family: sans-serif;
@@ -13,7 +15,16 @@ body{
 	display: table-cell;
 	vertical-align: middle;
 }
-input{
+#button{
+	background-color: #424242;
+	border: 0px;
+	margin-top: 10px;
+	padding:5px 10px;
+	color: #EEEEEE;
+	font-size: 110%;
+	border-radius: 3px;
+}
+.inputs{
 	padding:5px 5px;
 	margin: 5px; 
 	font-size: 100%;
